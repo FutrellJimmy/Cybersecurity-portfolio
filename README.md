@@ -6,6 +6,7 @@ This portfolio documents selected hands on projects completed while studying inf
 
 ##Skills I am Developing 
 
+
 -Security analysis 
 -Risk Management
 - Identity and access management
