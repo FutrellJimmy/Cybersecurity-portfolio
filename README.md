@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity-portfolio. 
 This portfolio documents selected hands on projects completed while studying information technology security. 
-##Skills I am Developing 
+##Skills I am Developing  
 -Security analysis 
 -Risk Management
 - Identity and access management
